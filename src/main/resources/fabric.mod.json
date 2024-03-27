@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "uwu-plus",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for the Meteor addons.",
+  "name": "UwU Plus",
+  "description": "UWU is a utility and maybe a combat addon.",
   "authors": [
-    "seasnail"
+    "1nject"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/YsnKey/UwU-Plus"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/uwu/uwulogo.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "com.example.addon.Addon"
+      "dev.uwu.System"
     ]
   },
   "mixins": [
-    "addon-template.mixins.json"
+    "uwu.mixins.json"
   ],
   "custom": {
-    "meteor-client:color": "225,25,25"
+    "meteor-client:color": "84,85,141"
   },
   "depends": {
     "java": ">=17",
