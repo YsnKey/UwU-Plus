@@ -3,6 +3,7 @@ package dev.uwu.main;
 import com.example.addon.commands.CommandExample;
 import com.mojang.logging.LogUtils;
 import dev.uwu.main.hud.HudExample;
+import dev.uwu.main.modules.ChorusPredict;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
 import meteordevelopment.meteorclient.commands.Commands;
 import meteordevelopment.meteorclient.systems.config.Config;
@@ -23,6 +24,7 @@ public class System extends MeteorAddon {
         LOG.info("Downloading UwU Addon");
 
         // Modules
+        Modules.get().add(new ChorusPredict());
 
         // Commands
         Commands.add(new CommandExample());
