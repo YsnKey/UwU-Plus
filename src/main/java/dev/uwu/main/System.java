@@ -1,8 +1,8 @@
 package dev.uwu.main;
 
 import com.example.addon.commands.CommandExample;
-import com.example.addon.hud.HudExample;
 import com.mojang.logging.LogUtils;
+import dev.uwu.main.hud.HudExample;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
 import meteordevelopment.meteorclient.commands.Commands;
 import meteordevelopment.meteorclient.systems.config.Config;
