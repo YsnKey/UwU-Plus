@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logo and Title -->
-  <image https://github.com/YsnKey/UwU-Plus/assets/79665934/1e6a6c23-d740-46bc-b9b8-b3369e1f9a3b>
+  <img src="/src/main/resources/assets/uwu/uwulogo.png">
 
   <h1>UWU Client</h1>
   <p>UWU is a utility and maybe a combat addon</p>
