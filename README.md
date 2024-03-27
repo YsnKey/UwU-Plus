@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Logo and Title -->
-  <img src="/src/main/resources/assets/orion/logo.png">
+  <img src="/src/main/resources/assets/uwu/uwulogo.png">
+
   <h1>UWU Client</h1>
   <p>UWU is a utility and maybe a combat addon</p>
 
