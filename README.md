@@ -2,7 +2,7 @@
   <!-- Logo and Title -->
   <img src="/src/main/resources/assets/uwu/uwulogo.png">
 
-  <h1>UWU Client</h1>
+  <h1>UWU Plus</h1>
   <p>UWU is a utility and maybe a combat addon</p>
 
 # Suggestions & Bugs
